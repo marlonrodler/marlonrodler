@@ -1,8 +1,13 @@
-
-<p align="left">
-  <img src="https://github.com/marlonrodler/marlonrodler/blob/master/gif.gif" width="462" height="334">
-  - Teste
-</p>
+<table>
+  <tr>
+    <p align="left">
+      <img src="https://github.com/marlonrodler/marlonrodler/blob/master/gif.gif" width="462" height="334">
+    </p>
+  </tr>
+  <tr>
+    - Teste
+  </tr>
+</table>
 
 <!--
 **marlonrodler/marlonrodler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
