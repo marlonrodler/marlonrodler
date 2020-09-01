@@ -1,18 +1,34 @@
 <table>
   <tr>
     <th>
-      <p align="left">
-        <img src="https://github.com/marlonrodler/marlonrodler/blob/master/gif.gif" width="462" height="334">
+      <p>
+        <img src="https://github.com/marlonrodler/marlonrodler/blob/master/gif.gif" width="442" height="314">
       </p>
     </th>
     <th>
-      - Teste
+      <p>
+        <h3>Hiii developer, if you got here...</h3>
+      </p>
+      <p>
+       <h1><b>Welcome!!!</b></h1>
+      </p>
+      <p>
+        My name is Marlon Rodler, I am a mere student of Systems Analysis and Development and I aims to improve and grow in the area of Web Development. 
+      </p>
     </th>
   </tr>
-  <tr>
-  </tr>
 </table>
+<hr>
 
+<table>
+  <tr>
+    <th>
+      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrodler&hide=html&layout=compact&theme=default" />
+    </th>
+  <th>
+    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrodler&theme=default" />
+  </th>
+</table>
 <!--
 **marlonrodler/marlonrodler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
