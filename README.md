@@ -1,4 +1,4 @@
-
+![Alt text](/relative/path/to/gif.gif?raw=true "Optional Title")
 
 ### Hi there 👋
 
