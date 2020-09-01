@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/marlonrodler/marlonrodler/gif.gif" width="462" height="334">
+  <img src="https://github.com/marlonrodler/marlonrodler/blob/master/gif.gif" width="462" height="334">
 </p>
 
 <!--
