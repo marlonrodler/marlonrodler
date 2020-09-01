@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/marlonrodler/marlonrodler/raw/master/path/to/gif.gif)
+![](gif.gif)
 
 
 ### Hi there 👋
