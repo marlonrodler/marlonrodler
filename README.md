@@ -13,7 +13,13 @@
        <h1><b>Welcome!!!</b></h1>
       </p>
       <p>
-        My name is Marlon Rodler, I am a mere student of Systems Analysis and Development and I aims to improve and grow in the area of Web Development. 
+        My name is Marlon Rodler, 
+      </p>
+      <p>
+        I am a mere student of Systems Analysis and Development...
+      </p> 
+      <p>
+        I aims to improve and grow in the area of Web Development. 
       </p>
     </th>
   </tr>
@@ -23,10 +29,10 @@
 <table>
   <tr>
     <th>
-      <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrodler&hide=html&layout=compact&theme=default" />
+      <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrodler&hide=html&layout=compact&theme=default" />
     </th>
   <th>
-    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrodler&theme=default" />
+    <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrodler&theme=default" />
   </th>
 </table>
 <!--
