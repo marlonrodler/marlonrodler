@@ -1,15 +1,15 @@
 <table>
   <tr>
-    <td>
+    <th>
       <p align="left">
         <img src="https://github.com/marlonrodler/marlonrodler/blob/master/gif.gif" width="462" height="334">
       </p>
-    </td>
+    </th>
+    <th>
+      - Teste
+    </th>
   </tr>
   <tr>
-    <td>
-      - Teste
-    </td>
   </tr>
 </table>
 
