@@ -1,4 +1,5 @@
-![Alt text](/relative/path/to/gif.gif?raw=true "Optional Title")
+![Alt Text](https://github.com/marlonrodler/marlonrodler/raw/master/path/to/gif.gif)
+
 
 ### Hi there 👋
 
