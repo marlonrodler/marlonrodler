@@ -24,17 +24,14 @@
     </th>
   </tr>
 </table>
-<hr>
+<hr width="500">
 
-<table>
-  <tr>
-    <th>
-      <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrodler&hide=html&layout=compact&theme=default" />
-    </th>
-  <th>
-    <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrodler&theme=default" />
-  </th>
-</table>
+## My Informations
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrodler&hide=html&layout=compact&theme=default" />
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrodler&theme=default" />
+
+
 <!--
 **marlonrodler/marlonrodler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
