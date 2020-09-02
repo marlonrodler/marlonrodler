@@ -7,10 +7,10 @@
     </th>
     <th>
       <p>
-        <h3>Hiii developer, if you got here...</h3>
+        <h3>Hiii developer 🤙🏻, if you got here...</h3>
       </p>
       <p>
-       <h1><b>Welcome!!!</b></h1>
+       <h1><b>Welcome!!!😄</b></h1>
       </p>
       <p>
         My name is Marlon Rodler, 
@@ -27,7 +27,7 @@
 
 <hr>
 
-# Marlon Rodler
+# 👱🏻‍♂️ Marlon Rodler
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marlon-rodler/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/5514996515508/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:marlon.rodler@hotmail.com)](mailto:marlon.rodler@hotmail.com)
@@ -35,10 +35,10 @@
 
 <hr>
 
-## My Informations
+## 🕵🏻‍♂️ My Data
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrodler&hide=html&layout=compact&theme=default" />
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=marlonrodler&theme=default" />
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=marlonrodler&theme=default" />
 
 
 <!--
