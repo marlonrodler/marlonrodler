@@ -24,9 +24,8 @@
     </th>
   </tr>
 </table>
-<p align="center" >
-  <hr width="500">
-</p>
+
+<hr>
 
 ## My Informations
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrodler&hide=html&layout=compact&theme=default" />
