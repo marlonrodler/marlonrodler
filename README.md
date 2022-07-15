@@ -21,12 +21,12 @@
       <p>
         My name is Marlon Rodler, 
       </p>
-      <p>
+      <!-- <p>
         I am a mere student of Systems Analysis and Development...
       </p> 
       <p>
         I aims to improve and grow in the area of Web Development. 
-      </p>
+      </p>!>
     </th>
   </tr>
 </table>
