@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marlon-rodler/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/5514996515508/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:marlon.rodler@hotmail.com)](mailto:marlon.rodler@hotmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-F2B361?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marlon_rodler/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-F2B361?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marlonrodler/)
 
 <table>
   <tr>
