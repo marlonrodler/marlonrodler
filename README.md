@@ -1,5 +1,5 @@
 # 👱🏻‍♂️ Marlon Rodler
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marlon-rodler/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marlonrodler/)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:marlon.rodler@hotmail.com)](mailto:marlon.rodler@hotmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F2B361?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marlonrodler/)
 
