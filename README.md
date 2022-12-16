@@ -34,9 +34,9 @@
 
 
 ## 🕵🏻‍♂️ My Data
-<img width="400px" height="189px !important" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrodler&hide=html&layout=compact&theme=default" />
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonrodler&hide=html&layout=compact&theme=default" />
 
-<img width="400px" height="189px !important" align="right" src="https://github-readme-stats.vercel.app/api?username=marlonrodler&theme=default" />
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=marlonrodler&theme=default" />
 
 
 <!--
