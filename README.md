@@ -23,9 +23,9 @@ Nas horas livres, crio aplicações web completas, da ideia ao lançamento.
 
 | Projeto | O que é |
 |---|---|
-| **[Player Ascend](https://playerascend.vercel.app/)** | Nota de 0 a 100 para cada partida de ARAM Desordem (League of Legends) e a evolução do jogador ao longo do tempo. React, Supabase e Vercel. |
-| **[Owldit](https://owldit.vercel.app/)** | Aplicativo que avisa no celular quando saem balanços e fatos relevantes das suas ações da B3. PWA com Web Push e Supabase. |
-| **[Reldor](https://github.com/marlonrodler/reldor)** | Ferramenta de linha de comando com plugin de IA para quem desenvolve em Salesforce: mostra o impacto de cada mudança antes do commit. Node.js e MCP. |
+| **[Player Ascend](https://playerascend.vercel.app/)** `beta` | Nota de 0 a 100 para cada partida de ARAM Desordem (League of Legends) e a evolução do jogador ao longo do tempo. React, Supabase e Vercel. |
+| **[Owldit](https://owldit.vercel.app/)** `beta` | Aplicativo que avisa no celular quando saem balanços e fatos relevantes das suas ações da B3. PWA com Web Push e Supabase. |
+| **[Reldor](https://github.com/marlonrodler/reldor)** | Ferramenta de linha de comando com plugin de IA para quem desenvolve na plataforma Salesforce: mostra o impacto de cada mudança antes do commit. Node.js e MCP. |
 
 Outros: [Typing Speed](https://marlonrodler.github.io/typing-speed/) · [Champions Challenge](https://marlonrodler.github.io/leagueoflegends-game/) · [Pokédex](https://marlonrodler.github.io/pokedex-react/)
 
@@ -85,7 +85,7 @@ Outros: [Typing Speed](https://marlonrodler.github.io/typing-speed/) · [Champio
 
 - **[Player Ascend](https://playerascend.vercel.app/)**: a 0–100 score for every ARAM Mayhem match (League of Legends) and player progress over time.
 - **[Owldit](https://owldit.vercel.app/)**: an app that alerts you when earnings reports and material facts come out for your Brazilian stocks.
-- **[Reldor](https://github.com/marlonrodler/reldor)**: a command-line tool with an AI plugin for Salesforce developers that shows the impact of each change before the commit.
+- **[Reldor](https://github.com/marlonrodler/reldor)**: a command-line tool with an AI plugin for developers working on the Salesforce platform that shows the impact of each change before the commit.
 
 Portfolio in English: [marlonrodler.github.io/en](https://marlonrodler.github.io/en/)
 
