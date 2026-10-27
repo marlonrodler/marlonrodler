@@ -25,7 +25,7 @@ Nas horas livres, crio aplicações web completas, da ideia ao lançamento.
 |---|---|
 | **[Player Ascend](https://playerascend.vercel.app/)** `beta` | Nota de 0 a 100 para cada partida de ARAM Desordem (League of Legends) e a evolução do jogador ao longo do tempo. React, Supabase e Vercel. |
 | **[Owldit](https://owldit.vercel.app/)** `beta` | Aplicativo que avisa no celular quando saem balanços e fatos relevantes das suas ações da B3. PWA com Web Push e Supabase. |
-| **[Reldor](https://github.com/marlonrodler/reldor)** | Ferramenta de linha de comando com plugin de IA para quem desenvolve na plataforma Salesforce: mostra o impacto de cada mudança antes do commit. Node.js e MCP. |
+| **[Reldor](https://github.com/marlonrodler/reldor)** `em desenvolvimento` | Ferramenta com plugin de IA para quem desenvolve na plataforma Salesforce: a ideia é mostrar o impacto de cada mudança antes do commit. Uma nova versão está sendo construída. |
 
 Outros: [Typing Speed](https://marlonrodler.github.io/typing-speed/) · [Champions Challenge](https://marlonrodler.github.io/leagueoflegends-game/) · [Pokédex](https://marlonrodler.github.io/pokedex-react/)
 
@@ -83,9 +83,9 @@ Outros: [Typing Speed](https://marlonrodler.github.io/typing-speed/) · [Champio
 
 **Salesforce Developer · 6x certified.** I develop on the Salesforce platform with Apex, Lightning Web Components, Flow and integrations. In my free time, I build complete web apps, from idea to launch.
 
-- **[Player Ascend](https://playerascend.vercel.app/)**: a 0–100 score for every ARAM Mayhem match (League of Legends) and player progress over time.
-- **[Owldit](https://owldit.vercel.app/)**: an app that alerts you when earnings reports and material facts come out for your Brazilian stocks.
-- **[Reldor](https://github.com/marlonrodler/reldor)**: a command-line tool with an AI plugin for developers working on the Salesforce platform that shows the impact of each change before the commit.
+- **[Player Ascend](https://playerascend.vercel.app/)** `beta`: a 0–100 score for every ARAM Mayhem match (League of Legends) and player progress over time.
+- **[Owldit](https://owldit.vercel.app/)** `beta`: an app that alerts you when earnings reports and material facts come out for your Brazilian stocks.
+- **[Reldor](https://github.com/marlonrodler/reldor)** `in development`: a tool with an AI plugin for developers working on the Salesforce platform. The idea is to show the impact of each change before the commit. A new version is being built.
 
 Portfolio in English: [marlonrodler.github.io/en](https://marlonrodler.github.io/en/)
 
