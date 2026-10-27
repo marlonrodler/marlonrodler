@@ -101,7 +101,7 @@ ${body}
 
 export function statsCard(d, theme = 'light') {
   const t = THEMES[theme];
-  const W = 460, H = 200;
+  const W = 420, H = 200;
   const items = [
     ['Contribuições', d.contributions],
     ['Commits', d.commits],
@@ -110,13 +110,13 @@ export function statsCard(d, theme = 'light') {
   ];
   const grid = items
     .map(([label, value], i) => {
-      const x = 24 + (i % 2) * 140, y = 74 + Math.floor(i / 2) * 52;
+      const x = 24 + (i % 2) * 128, y = 74 + Math.floor(i / 2) * 52;
       return `<g class="fade" style="animation-delay:${i * 80}ms"><text class="v" x="${x}" y="${y}">${fmt(value)}</text><text class="l" x="${x}" y="${y + 18}">${esc(label)}</text></g>`;
     })
     .join('');
   // Barras: contribuições por semana nas últimas 26 semanas
   const max = Math.max(1, ...d.weeks);
-  const bx = 330, bw = 106, bh = 92, by = 150, n = d.weeks.length || 1, gap = 1.2, cw = (bw - gap * (n - 1)) / n;
+  const bx = 304, bw = 92, bh = 92, by = 150, n = d.weeks.length || 1, gap = 1.2, cw = (bw - gap * (n - 1)) / n;
   const bars = d.weeks
     .map((v, i) => {
       const h = Math.max(2, (v / max) * bh);
@@ -128,14 +128,14 @@ export function statsCard(d, theme = 'light') {
 ${grid}
 <rect x="${bx - 8}" y="52" width="${bw + 16}" height="120" rx="8" fill="${t.track}"/>
 ${bars}
-<text class="s" x="${bx + bw / 2}" y="166" text-anchor="middle">6 meses, por semana</text>
+<text class="s" x="${bx + bw / 2}" y="166" text-anchor="middle">últimos 6 meses</text>
 <text class="s" x="24" y="${H - 18}">No GitHub desde ${d.since} · atualizado todo dia</text>`;
   return frame(W, H, t, body, `Atividade no GitHub: ${d.contributions} contribuições e ${d.commits} commits no último ano, ${d.repos} repositórios públicos`);
 }
 
 export function languagesCard(d, theme = 'light') {
   const t = THEMES[theme];
-  const W = 360, H = 200;
+  const W = 330, H = 200;
   const langs = d.languages;
   let x = 24;
   const barW = W - 48;
@@ -149,7 +149,7 @@ export function languagesCard(d, theme = 'light') {
     .join('');
   const legend = langs
     .map((l, i) => {
-      const cx = 24 + (i % 2) * 160, cy = 92 + Math.floor(i / 2) * 26;
+      const cx = 24 + (i % 2) * 146, cy = 92 + Math.floor(i / 2) * 26;
       return `<g class="fade" style="animation-delay:${i * 60}ms"><circle cx="${cx + 5}" cy="${cy - 4}" r="5" fill="${l.color}"/><text class="l" x="${cx + 16}" y="${cy}"><tspan fill="${t.value}" font-weight="600">${esc(l.name)}</tspan>  ${l.pct.toFixed(1).replace('.', ',')}%</text></g>`;
     })
     .join('');
