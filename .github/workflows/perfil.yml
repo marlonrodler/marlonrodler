@@ -1,0 +1,53 @@
+name: atualizar cartões do perfil
+
+# Gera os cartões de atividade e a cobrinha de contribuições todo dia
+# e publica na branch "output" (o README aponta para lá).
+on:
+  schedule:
+    - cron: '17 6 * * *' # todo dia, 03:17 no horário de Brasília
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths: ['scripts/**', '.github/workflows/perfil.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: perfil
+  cancel-in-progress: true
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Cartões de atividade e linguagens
+        run: node scripts/stats.mjs dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Cobrinha de contribuições
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          commit_message: 'Atualiza os cartões do perfil'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
