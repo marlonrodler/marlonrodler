@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330" height="200" viewBox="0 0 330 200" role="img" aria-label="Linguagens mais usadas: JavaScript 57%, HTML 17%, PHP 8%, Java 8%, CSS 6%, Apex 4%, Outras 1%">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+  .t { font-size: 15px; font-weight: 600; fill: #e6edf3; }
+  .l { font-size: 12.5px; fill: #9198a1; }
+  .v { font-size: 20px; font-weight: 700; fill: #f0f6fc; font-variant-numeric: tabular-nums; }
+  .s { font-size: 11px; fill: #9198a1; }
+  .grow { transform-box: fill-box; transform-origin: bottom; animation: grow 700ms cubic-bezier(.2,.8,.2,1) both; }
+  .fade { animation: fade 600ms ease-out both; }
+  @keyframes grow { from { transform: scaleY(0); } }
+  @keyframes fade { from { opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .grow, .fade { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="329" height="199" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="24" y="34">Linguagens mais usadas</text>
+<clipPath id="bar"><rect x="24" y="52" width="282" height="10" rx="5"/></clipPath>
+<g clip-path="url(#bar)"><rect x="24.00" y="52" width="160.88" height="10" fill="#f1e05a"/><rect x="184.88" y="52" width="48.54" height="10" fill="#e34c26"/><rect x="233.42" y="52" width="21.88" height="10" fill="#4F5D95"/><rect x="255.30" y="52" width="21.63" height="10" fill="#b07219"/><rect x="276.93" y="52" width="15.89" height="10" fill="#663399"/><rect x="292.82" y="52" width="11.30" height="10" fill="#1797c0"/><rect x="304.11" y="52" width="2.00" height="10" fill="#8b949e"/></g>
+<g class="fade" style="animation-delay:0ms"><circle cx="29" cy="88" r="5" fill="#f1e05a"/><text class="l" x="40" y="92"><tspan fill="#f0f6fc" font-weight="600">JavaScript</tspan>  57,0%</text></g><g class="fade" style="animation-delay:60ms"><circle cx="175" cy="88" r="5" fill="#e34c26"/><text class="l" x="186" y="92"><tspan fill="#f0f6fc" font-weight="600">HTML</tspan>  17,2%</text></g><g class="fade" style="animation-delay:120ms"><circle cx="29" cy="114" r="5" fill="#4F5D95"/><text class="l" x="40" y="118"><tspan fill="#f0f6fc" font-weight="600">PHP</tspan>  7,8%</text></g><g class="fade" style="animation-delay:180ms"><circle cx="175" cy="114" r="5" fill="#b07219"/><text class="l" x="186" y="118"><tspan fill="#f0f6fc" font-weight="600">Java</tspan>  7,7%</text></g><g class="fade" style="animation-delay:240ms"><circle cx="29" cy="140" r="5" fill="#663399"/><text class="l" x="40" y="144"><tspan fill="#f0f6fc" font-weight="600">CSS</tspan>  5,6%</text></g><g class="fade" style="animation-delay:300ms"><circle cx="175" cy="140" r="5" fill="#1797c0"/><text class="l" x="186" y="144"><tspan fill="#f0f6fc" font-weight="600">Apex</tspan>  4,0%</text></g><g class="fade" style="animation-delay:360ms"><circle cx="29" cy="166" r="5" fill="#8b949e"/><text class="l" x="40" y="170"><tspan fill="#f0f6fc" font-weight="600">Outras</tspan>  0,7%</text></g>
+</svg>
